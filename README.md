@@ -1,8 +1,8 @@
 #Day2 Content
 
-## Basic Statistics - Theory & Excerises
-## Basic Probability - Theory & Excerises
-## Basic Algebra - Theory & Excerises
+## Basic Statistics - Theory & Exercises
+## Basic Probability - Theory & Exercises
+## Basic Algebra - Theory & Exercises
 ## Linear Regresssion - Theory & Practicals
 ## Logistic Regresssion - Theory & Practicals
 ## Black Box Models - Neurarl Networks - - Theory & Practicals
