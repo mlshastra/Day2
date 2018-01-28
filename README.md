@@ -1,4 +1,4 @@
-#Day2 Content
+# Day2 Agenda
 
 ## Basic Statistics - Theory & Exercises
 ## Basic Probability - Theory & Exercises
