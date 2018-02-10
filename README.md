@@ -1,11 +1,10 @@
 # Day2 Agenda
 
-## Basic Statistics - Theory & Exercises
-## Basic Probability - Theory & Exercises
-## Basic Algebra - Theory & Exercises
+## Basic Statistics and Maths
 ## Linear Regresssion - Theory & Practicals
 ## Logistic Regresssion - Theory & Practicals
-## Black Box Models - Neurarl Networks - - Theory & Practicals
-## Black Box Models - Support Vector Machines- - Theory & Practicals
+## Unsupervised Learning - Clustering Techniques - KMeans
+## Unsupervised Learning - Market Basket Analysis
+
 
 
