@@ -1,10 +1,11 @@
 # Day2 Agenda
 
-## Basic Statistics and Maths
+## Basic Statistic - Theory 
+## Basic Maths - Theory
 ## Linear Regresssion - Theory & Practicals
 ## Logistic Regresssion - Theory & Practicals
-## Unsupervised Learning - Clustering Techniques - KMeans
-## Unsupervised Learning - Market Basket Analysis
+## Unsupervised Learning - Clustering Techniques - KMeans - Theory & Practicals
+## Unsupervised Learning - Market Basket Analysis - Theory & Practicals
 
 
 
