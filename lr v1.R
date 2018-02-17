@@ -165,6 +165,16 @@ summary(lm.fit); contrasts(Credit$Gender)
 lm.fit=lm(Balance~Ethnicity,data=Credit)
 summary(lm.fit)
 
+# Try splitting data into training and testData
+# do model
+# Pred <- predict(lmMod, testData)
+
+#actuals_preds <- data.frame(cbind(actuals=testData$dist, predicteds=Pred))  # make actuals_predicteds dataframe.
+#correlation_accuracy <- cor(actuals_preds) 
+#head(actuals_preds)
+
+#min_max_accuracy <- mean(apply(actuals_preds, 1, min) / apply(actuals_preds, 1, max))  
+#mape <- mean(abs((actuals_preds$predicteds - actuals_preds$actuals))/actuals_preds$actuals)  
 
 
 
