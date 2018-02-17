@@ -71,7 +71,7 @@ qplot(lstat, data = Boston, geom = "density", fill= rad, main="pdf of lstat", xl
 vis_fun <- function(data, mapping, ...){
   p <- ggplot(data = data, mapping = mapping) + 
     geom_point() + 
-    geom_smooth(method=loess, fill="red", color="red", ...) +
+    geom_smooth(method=glm, fill="red", color="red", ...) +
     geom_smooth(method=lm, fill="purple", color="purple", ...)
   p
 }
